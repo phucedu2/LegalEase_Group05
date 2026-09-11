@@ -27,6 +27,8 @@ LegalEase is a web-based platform that connects individuals and businesses with 
 - Administrators verify lawyer registrations, oversee all appointments, and manage platform content (announcements, FAQs, notices).
 
 ---
+Video Demonstration: https://www.youtube.com/watch?v=Cnz0HsGskeU
+---
 
 ## ✨ Key Features
 
