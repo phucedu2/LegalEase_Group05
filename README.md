@@ -1,4 +1,4 @@
-##⚖️ LegalEase - Legal Consultation Booking Platform
+⚖️ LegalEase - Legal Consultation Booking Platform
 
 **FPT Aptech Computer Education**
 
